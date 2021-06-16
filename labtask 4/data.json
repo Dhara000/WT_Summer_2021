@@ -1,0 +1,22 @@
+[
+    {
+        "name": "rukaiya",
+        "email": "rukaiyadhara00@gmail.com",
+        "password": "admin",
+        "comment": "",
+        "gender": "Female",
+        "hobby1": null,
+        "hobby2": "Dancing",
+        "hobby3": "Reading"
+    },
+    {
+        "name": "dhara",
+        "email": "dhara00@gmail.com",
+        "password": "admin",
+        "comment": "I am a student.",
+        "gender": "Female",
+        "hobby1": "Singing",
+        "hobby2": "Dancing",
+        "hobby3": "Reading"
+    }
+]
